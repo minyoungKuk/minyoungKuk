@@ -1,12 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hi!%20I'm%20Minyoung&fontSize=90&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hi!%20I'm%20Minyoung&fontSize=90&fontAlign=50)
 
 
-<h2 align="center">✨ Welcome to MY github ✨</h2>
-
+<p align="center">
+  ✨ Welcome to MY github ✨
+</p>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{minyoungKuk}?pet-id=1" width="1000" height="120"/>
 </a>
+
 
 ## tech stack
 
@@ -21,7 +23,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <br />
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -34,6 +36,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+## Github Stats
+![Minyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoungKuk&theme=dark&show_icons=true)
 
 
 
